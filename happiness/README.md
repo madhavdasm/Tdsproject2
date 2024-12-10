@@ -55,5 +55,5 @@ This analysis provides an insightful overview of the multifaceted nature of well
 
 ## Visualizations
 ![Distribution of year](year_distribution.png)
-![Distribution of Life Ladder](Life Ladder_distribution.png)
+![Distribution of Life Ladder](Life_Ladder_distribution.png)
 ![Correlation Heatmap](correlation_heatmap.png)
